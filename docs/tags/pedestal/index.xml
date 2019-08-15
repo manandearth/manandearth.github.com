@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pedestal on Adam Gefen</title>
+    <link>https://thepaciellogroup.github.io/cupper/tags/pedestal/</link>
+    <description>Recent content in pedestal on Adam Gefen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://thepaciellogroup.github.io/cupper/tags/pedestal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hirundia</title>
+      <link>https://thepaciellogroup.github.io/cupper/patterns/projects/hirundia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thepaciellogroup.github.io/cupper/patterns/projects/hirundia/</guid>
+      <description> Hirundia  also click here for the github project  Hirundia is a data collection tool for investigating the effects of humans on the populations of migrating birds.
+   Here&#39;s an example of a note shortcode for adding little &#34;oh and also&#34; notes to your patterns&#39; documentation.   </description>
+    </item>
+    
+  </channel>
+</rss>

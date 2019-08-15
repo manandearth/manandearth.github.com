@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Cupper</title>
+    <title>Tags on Adam Gefen</title>
     <link>https://thepaciellogroup.github.io/cupper/tags/</link>
-    <description>Recent content in Tags on Cupper</description>
+    <description>Recent content in Tags on Adam Gefen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -11,20 +11,47 @@
     
     
     <item>
-      <title>Markdown</title>
-      <link>https://thepaciellogroup.github.io/cupper/tags/markdown/</link>
+      <title>clojure</title>
+      <link>https://thepaciellogroup.github.io/cupper/tags/clojure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://thepaciellogroup.github.io/cupper/tags/markdown/</guid>
+      <guid>https://thepaciellogroup.github.io/cupper/tags/clojure/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Metadata</title>
-      <link>https://thepaciellogroup.github.io/cupper/tags/metadata/</link>
+      <title>clojurescript</title>
+      <link>https://thepaciellogroup.github.io/cupper/tags/clojurescript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://thepaciellogroup.github.io/cupper/tags/metadata/</guid>
+      <guid>https://thepaciellogroup.github.io/cupper/tags/clojurescript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conservation</title>
+      <link>https://thepaciellogroup.github.io/cupper/tags/conservation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thepaciellogroup.github.io/cupper/tags/conservation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pedestal</title>
+      <link>https://thepaciellogroup.github.io/cupper/tags/pedestal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thepaciellogroup.github.io/cupper/tags/pedestal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>science</title>
+      <link>https://thepaciellogroup.github.io/cupper/tags/science/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thepaciellogroup.github.io/cupper/tags/science/</guid>
       <description></description>
     </item>
     

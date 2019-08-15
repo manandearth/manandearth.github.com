@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Adam Gefen</title>
-    <link>https://thepaciellogroup.github.io/cupper/</link>
-    <description>Recent content on Adam Gefen</description>
+    <title>Projects on Adam Gefen</title>
+    <link>https://thepaciellogroup.github.io/cupper/patterns/projects/</link>
+    <description>Recent content in Projects on Adam Gefen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://thepaciellogroup.github.io/cupper/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://thepaciellogroup.github.io/cupper/patterns/projects/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Cupper</title>
-      <link>https://thepaciellogroup.github.io/cupper/print-version/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://thepaciellogroup.github.io/cupper/print-version/</guid>
-      <description>You don&amp;rsquo;t want to edit this file :-)</description>
-    </item>
     
     <item>
       <title>Hirundia</title>
@@ -36,15 +27,6 @@
       
       <guid>https://thepaciellogroup.github.io/cupper/patterns/projects/spheres/</guid>
       <description>Spheres  also click here for the github project  Spheres Sounds is a re-frame synthisizer which interpolates the properties of the solar system objects to sound waves. It is an experimental intrument whose purpose is the understanding of the relations of those properties through sound.</description>
-    </item>
-    
-    <item>
-      <title>The caretaker</title>
-      <link>https://thepaciellogroup.github.io/cupper/patterns/blog/2019-08-13/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://thepaciellogroup.github.io/cupper/patterns/blog/2019-08-13/</guid>
-      <description>TODO</description>
     </item>
     
   </channel>
